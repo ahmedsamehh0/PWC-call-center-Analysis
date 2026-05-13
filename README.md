@@ -1,7 +1,6 @@
 # PWC Power BI Virtual work - Call Center Trends
 
-![PWC Task 1 - Call Centre Dashboard_page-0001](https://github.com/Anabil12/Anabil12/assets/118571332/a78f3371-0bb4-45a7-841d-2806ca2322a8)
- 
+
 ## Table of Contents :
 
 - Problem Statement
